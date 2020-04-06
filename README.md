@@ -1,19 +1,19 @@
 # zookeeper-to-env
 
-CLI to create environment variables from a JSON file exported from Apache's Zookeeper.
+CLI to create environment variables from a JSON file (or many) exported from Apache's Zookeeper.
 
 ## Workflow
 
 - Clone this repository
-- Link 
+- Link
 ```shell
 npm link
 ```
 - Run
 ```sh
-zookeeper-to-env [file]
+zookeeper-to-env [file1] [file2] ...
 ```
-- Link 
+- Link
 ```shell
 npm unlink
 ```
