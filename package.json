@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Export environment variables from zookeeper exported JSON",
   "main": "index.js",
+  "repository": "https://github.com/johannMorales/zookeeper-to-env",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
