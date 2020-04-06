@@ -1,0 +1,14 @@
+{
+  "name": "zookeper-to-env",
+  "version": "0.0.1",
+  "description": "Export environment variables from zookeeper exported JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johann Morales",
+  "license": "ISC",
+  "bin": {
+    "zookeeper-to-env": "./cli.js"
+  }
+}
